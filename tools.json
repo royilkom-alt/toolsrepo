@@ -54,10 +54,38 @@
     },
     {
       "name": "Play!",
-      "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Play-thumbnail-300x300.png",
       "developerName": "Play! Team",
       "category": "emulator",
       "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa"
+    },
+     {
+      "name": "TrollInstallerX",
+      "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
+      "developerName": "alfiecg24",
+      "category": "jailbreak",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
+    },
+    {
+      "name": "iNDS",
+      "iconURL": "https://pbs.twimg.com/profile_images/671742410624380928/WDnGaXMC_400x400.png",
+      "developerName": "Will Cobb",
+      "category": "emulator",
+      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa"
+    },
+     {
+      "name": "iCube Wii",
+      "iconURL": "https://c10.patreonusercontent.com/4/patreon-media/p/post/139288574/2c7cc5e81a584b53bd279d33eba8e834/eyJ3Ijo2MjB9/3.png?token-hash=N2Gaa3M04KLrc0KVWG_7tl6XF60i4GauWhSazp6sJ3o%3D&token-time=1767398400",
+      "developerName": "UTM Team",
+      "category": "emulator",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/4.1.0beta5/DolphiniOS-JoeMattiello-4.1.0-Beta5-iOS.ipa"
+    },
+    {
+      "name": "PojavLauncher",
+      "iconURL": "https://img.utdstc.com/icon/ad7/8d1/ad78d1719194d0e877d2ea5badb3f90301ac97e4292e39860ee7df48763300cc:200",
+      "developerName": "Ametyhis Version",
+      "category": "emulator",
+      "downloadURL": "https://drive.google.com/file/d/1P0O42Ze9pbTxh20rFCMUcqi7qaFUvavn/view?usp=sharing"
     }
   
   ]
