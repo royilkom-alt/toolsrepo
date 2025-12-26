@@ -1,0 +1,64 @@
+{
+  "name": "AppleJr IPA Tools Repo",
+  "author": "AppleJr",
+  "updated": "2025-12-26",
+  "apps": [
+    {
+      "name": "Delta Emulator",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
+      "developerName": "Riley Testut",
+      "category": "emulator",
+      "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa"
+    },
+    {
+      "name": "unc0ver",
+      "iconURL": "https://iosninja.io/img/ipas/unc0ver.jpg",
+      "developerName": "Pwn20wnd",
+      "category": "jailbreak",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa"
+    },
+    {
+      "name": "Filza",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkG2kXwiV3H3Z8SbBRtneRJghI9d_dnLFkvg&s",
+      "developerName": "TIGI Software",
+      "category": "jailbreak",
+      "downloadURL": "https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa"
+    },
+    {
+      "name": "Dopamine",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSif2qEaXGZpwub-HmMfFCqgre4S2iv0_P7gw&s",
+      "developerName": "opa33",
+      "category": "jailbreak",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.5/Dopamine.ipa"
+    },
+    {
+      "name": "MeloNX",
+      "iconURL": "https://melonx.org/static/imgs/MeloNX.svg",
+      "developerName": "Ryujin",
+      "category": "emulator",
+      "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/2.1"
+    },
+    {
+      "name": "Provenance",
+      "iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
+      "developerName": "Provenance Team",
+      "category": "emulator",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.2.1/Provenance-3.2.1-iOS.ipa"
+    },
+    {
+      "name": "PPSSPP Gold",
+      "iconURL": "https://play-lh.googleusercontent.com/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
+      "developerName": "PPSSPP Team",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/PPSSPP-Gold.ipa"
+    },
+    {
+      "name": "Play!",
+      "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
+      "developerName": "Play! Team",
+      "category": "emulator",
+      "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa"
+    }
+  
+  ]
+}
