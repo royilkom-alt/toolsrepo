@@ -21,7 +21,7 @@
       "name": "Filza",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkG2kXwiV3H3Z8SbBRtneRJghI9d_dnLFkvg&s",
       "developerName": "TIGI Software",
-      "category": "jailbreak","tweak",
+      "category": "tweak",
       "downloadURL": "https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa"
     },
     {
@@ -46,7 +46,7 @@
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.2.1/Provenance-3.2.1-iOS.ipa"
     },
     {
-      "name": "PPSSPP Gold"
+      "name": "PPSSPP Gold",
       "iconURL": "https://play-lh.googleusercontent.com/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
       "developerName": "PPSSPP Team",
       "category": "emulator",
@@ -63,7 +63,7 @@
       "name": "TrollInstallerX",
       "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
       "developerName": "iOS 14.0-16.6.1",
-      "category": "jailbreak","tweak",
+      "category": "tweak",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
     },
     {
@@ -90,8 +90,8 @@
     {
       "name": "StikDebug",
       "iconURL": "https://github.com/StephenDev0/StikDebug/raw/main/assets/StikJIT.png",
-      "developerName": "StephenDev0",
-      "category": "emulator","tweak",
+      "developerName": "JIT Enabler",
+      "category": "tweak",
       "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/2.3.6/StikDebug-2.3.6.ipa"
     },
     {
