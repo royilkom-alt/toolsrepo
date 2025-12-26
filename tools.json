@@ -21,13 +21,13 @@
       "name": "Filza",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkG2kXwiV3H3Z8SbBRtneRJghI9d_dnLFkvg&s",
       "developerName": "TIGI Software",
-      "category": "jailbreak",
+      "category": "jailbreak","tweak",
       "downloadURL": "https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa"
     },
     {
       "name": "Dopamine",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSif2qEaXGZpwub-HmMfFCqgre4S2iv0_P7gw&s",
-      "developerName": "opa33",
+      "developerName": "iOS 15-16.6.1",
       "category": "jailbreak",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.5/Dopamine.ipa"
     },
@@ -46,7 +46,7 @@
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.2.1/Provenance-3.2.1-iOS.ipa"
     },
     {
-      "name": "PPSSPP Gold",
+      "name": "PPSSPP Gold"
       "iconURL": "https://play-lh.googleusercontent.com/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
       "developerName": "PPSSPP Team",
       "category": "emulator",
@@ -62,8 +62,8 @@
      {
       "name": "TrollInstallerX",
       "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
-      "developerName": "alfiecg24",
-      "category": "jailbreak",
+      "developerName": "iOS 14.0-16.6.1",
+      "category": "jailbreak","tweak",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
     },
     {
@@ -86,6 +86,27 @@
       "developerName": "Ametyhis Version",
       "category": "emulator",
       "downloadURL": "https://drive.google.com/file/d/1P0O42Ze9pbTxh20rFCMUcqi7qaFUvavn/view?usp=sharing"
+    },
+    {
+      "name": "StikDebug",
+      "iconURL": "https://github.com/StephenDev0/StikDebug/raw/main/assets/StikJIT.png",
+      "developerName": "StephenDev0",
+      "category": "emulator","tweak",
+      "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/2.3.6/StikDebug-2.3.6.ipa"
+    },
+    {
+      "name": "Taurine",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSgBqgE911RD_w4iPBmyILi7lJrq3jyJc3WQ&s",
+      "developerName": "iOS 14-14.8.1",
+      "category": "jailbreak",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa"
+    },
+     {
+      "name": "Chimera",
+      "iconURL": "https://theapplewiki.com/images/applewiki/0/04/Chimera_Logo.jpg",
+      "developerName": "iOS 12 — 12.5.7",
+      "category": "jailbreak",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.5-12.2-12.5.ipa"
     }
   
   ]
