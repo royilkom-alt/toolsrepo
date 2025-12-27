@@ -4,6 +4,13 @@
   "updated": "2025-12-26",
   "apps": [
     {
+      "name": "NathanLR Jailbreak",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/ownload-Nathanlr-Jailbreak.png",
+      "developerName": "iOS 17",
+      "category": "jailbreak",
+      "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa"
+    },
+    {
       "name": "Delta Emulator",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
       "developerName": "Riley Testut",
@@ -37,6 +44,27 @@
       "developerName": "Ryujin",
       "category": "emulator",
       "downloadURL": "https://git.ryujinx.app/melonx/emu/-/releases/2.1"
+    },
+    {
+      "name": "NES.emu",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/nesemu.png",
+      "developerName": "NES",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/NES-emu.ipa"
+    },
+    {
+      "name": "NDS4iOS",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/icon-2-1.png",
+      "developerName": "Emulator",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/HappyChick64bit.ipa"
+    },
+    {
+      "name": "Happy Chick",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-94.jpg",
+      "developerName": "Emulator",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/NDS4iOS.ipa"
     },
     {
       "name": "Provenance",
@@ -107,7 +135,118 @@
       "developerName": "iOS 12 — 12.5.7",
       "category": "jailbreak",
       "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.5-12.2-12.5.ipa"
-    }
-  
+    },
+  {
+    "name": "HITMAN World of Assassination",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/ab/69/1aab6982-c010-6990-3941-a0f1362baecb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/146x0w.webp",
+    "developerName": "IO Interactive",
+    "category": "Games",
+    "downloadURL": "https://decrypt.day/app/id6742786366"
+  },
+  {
+    "name": "Last Day on Earth: Survival",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Last-Day-On-Earth.jpg",
+    "developerName": "Kefir Games",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/last-day-on-earth-hack.ipa"
+  },
+  {
+    "name": "CarX Street",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/CarX-Street.png",
+    "developerName": "CarX Technologies",
+    "category": "Racing",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/CarX-Street-IPAOMTK.COM.ipa"
+  },
+  {
+    "name": "Beach Buggy Racing 2",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Beach-Buggy-Racing-2.webp",
+    "developerName": "Vector Unit",
+    "category": "Racing",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/BB-Racing-2-IPAOMTK.COM.ipa"
+  },
+  {
+    "name": "8 Ball Pool MOD",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-8-ball-pool-1.png",
+    "developerName": "Miniclip",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/8ballpool.ipa"
+  },
+  {
+    "name": "CapCut Pro",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/CapCut-PRO-ipa.png",
+    "developerName": "ByteDance",
+    "category": "Photo & Video",
+    "downloadURL": "https://file.ipaomtk.com/ipa/CapCut-2-IPAOMTK.COM.ipa"
+  },
+  {
+    "name": "Delta Executor iOS",
+    "iconURL": "https://deltaios-executor.com/Icon.jpg",
+    "developerName": "Delta iOS Team",
+    "category": "Games",
+    "downloadURL": "itms-services://?action=download-manifest&url=https%3A%2F%2Fdeltaios-executor.com%2FInstall21.plist"
+  },
+{
+    "name": "Toca Boca World",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Toca-Boca-World.webp",
+    "developerName": "Toca Boca AB",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Toca_Boca_World_ipaomtk.com.ipa"
+  },
+    {
+    "name": "Snapchat Mod",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/snapchat-1.png",
+    "developerName": "SCFalcon",
+    "category": "Social Media",
+    "downloadURL": "https://file.ipaomtk.com/ipa/SCFalcon.ipa"
+  },
+     {
+    "name": "Video Star",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Video-Star-ipa.jpg",
+    "developerName": "Frontier",
+    "category": "Photo & Video",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Video-Star-ipaomtk.com.ipa"
+  },
+      {
+    "name": "Call of Duty Mobile",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Call-of-Duty-Mobile-Season-4-thumbnail.png",
+    "developerName": "COD",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Call-of-Duty-1.8.44.ipa"
+  },
+   {
+    "name": "Class Royale",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/clash-royale.jpg",
+    "developerName": "Team",
+    "category": "Games",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/Clash-Royale-IPAOMTK.COM.ipa"
+  },
+    {
+    "name": "Resident Evil Survival",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-6.jpg",
+    "developerName": "Aniplex Inc.",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Resident_Evil_Survival_Unit_ipaomtk.com.ipa"
+  },
+    {
+    "name": "Resident Evil 4",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-6.jpg",
+    "developerName": "Capcom",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Resident-Evil-4-ipaomtk.com.ipa"
+  },
+     {
+    "name": "Terraria",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/terraria.png",
+    "developerName": "505 Games Srl",
+    "category": "Games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Terraria.ipa"
+  },
+    {
+    "name": "Clash Of Clans",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Clash-of-Clans.jpg",
+    "developerName": "Supercell",
+    "category": "Games",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/Clash-Of-Clans-IPAOMTK.COM.ipa"
+  }
   ]
 }
