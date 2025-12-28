@@ -11,6 +11,13 @@
       "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa"
     },
     {
+      "name": "PancakeStore",
+      "iconURL": "https://github.com/jailbreakdotparty/PancakeStore/raw/main/previewIcon.png",
+      "developerName": "Jailbreakdotparty",
+      "category": "jailbreak",
+      "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.0.1/PancakeStore_v1.0.1.ipa"
+    },
+    {
       "name": "Delta Emulator",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
       "developerName": "Riley Testut",
@@ -28,7 +35,7 @@
       "name": "Filza",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkG2kXwiV3H3Z8SbBRtneRJghI9d_dnLFkvg&s",
       "developerName": "TIGI Software",
-      "category": "tweak",
+      "category": "jailbreak",
       "downloadURL": "https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa"
     },
     {
@@ -60,11 +67,18 @@
       "downloadURL": "https://file.ipaomtk.com/ipa/HappyChick64bit.ipa"
     },
     {
-      "name": "Happy Chick",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-94.jpg",
-      "developerName": "Emulator",
+      "name": "RetroArch",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/retroarch-svgrepo-com.svg",
+      "developerName": "Retro",
       "category": "emulator",
-      "downloadURL": "https://file.ipaomtk.com/ipa/NDS4iOS.ipa"
+      "downloadURL": "https://file.ipaomtk.com/ipa/RetroArch-1.9.ipaa"
+    },
+    {
+      "name": "Dolphin Emulator",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/dolphin-emulator.png",
+      "developerName": "iCube",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Dolphin.ipa"
     },
     {
       "name": "Provenance",
@@ -72,6 +86,13 @@
       "developerName": "Provenance Team",
       "category": "emulator",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.2.1/Provenance-3.2.1-iOS.ipa"
+    },    
+    {
+      "name": "Happy Chick",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-94.jpg",
+      "developerName": "Emulator",
+      "category": "emulator",
+      "downloadURL": "https://file.ipaomtk.com/ipa/NDS4iOS.ipa"
     },
     {
       "name": "PPSSPP Gold",
@@ -91,7 +112,7 @@
       "name": "TrollInstallerX",
       "iconURL": "https://pbs.twimg.com/media/GKhZSrlWAAAciBQ.jpg",
       "developerName": "iOS 14.0-16.6.1",
-      "category": "tweak",
+      "category": "jailbreak",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
     },
     {
@@ -242,11 +263,39 @@
     "downloadURL": "https://file.ipaomtk.com/ipa/Terraria.ipa"
   },
     {
-    "name": "Clash Of Clans",
-    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Clash-of-Clans.jpg",
-    "developerName": "Supercell",
-    "category": "games",
-    "downloadURL": "https://s1.ipaomtk.com/ipa/Clash-Of-Clans-IPAOMTK.COM.ipa"
+    "name": "Deezer",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/deezer-music-amp-podcast-player-1-150x150.png",
+    "developerName": "Deezer",
+    "category": "music",
+    "downloadURL": "https://file.ipaomtk.com/ipa/Deezer_Music_Player,_Podcast-v7.15.0-ipaomtk.com.ipa"
+  },
+    {
+    "name": "SoundCloud",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/soundcloud-play-music-amp-songs.png",
+    "developerName": "SC",
+    "category": "music",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/SoundCloud-IPAOMTK.COM.ipa"
+  },
+    {
+    "name": "Audiomack",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-audiomack-music-downloader.png",
+    "developerName": "Audio",
+    "category": "music",
+    "downloadURL": "https://s1.ipaomtk.com/ipa/Audiomack-IPAOMTK.COM.ipa"
+  },
+    {
+    "name": "GamePad",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/gamepad-1.png",
+    "developerName": "Emulator Pad",
+    "category": "emulator",
+    "downloadURL": "https://file.ipaomtk.com/ipa/GamePad.ipa"
+  },
+     {
+    "name": "GBA4iOS",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/GBA4iOS-1.png",
+    "developerName": "GBA",
+    "category": "emulator",
+    "downloadURL": "https://file.ipaomtk.com/ipa/GBA4iOS.ipa"
   }
   ]
 }
