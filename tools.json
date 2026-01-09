@@ -10,6 +10,13 @@
       "category": "jailbreak",
       "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa"
     },
+     {
+      "name": "Esign IPA",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/esign-ipa.jpg",
+      "developerName": "AppleJr",
+      "category": "Jailbreak",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Esign.ipa"
+    },
     {
       "name": "PancakeStore",
       "iconURL": "https://github.com/jailbreakdotparty/PancakeStore/raw/main/previewIcon.png",
@@ -213,6 +220,20 @@
     "category": "games",
     "downloadURL": "https://file.ipaomtk.com/ipa/Toca_Boca_World_ipaomtk.com.ipa"
   },
+     {
+      "name": "Plants vs Zombies",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Plants-vs-Zombies-1.jpg",
+      "developerName": "Electronics Art",
+      "category": "games",
+      "downloadURL": "https://file.ipaomtk.com/ipa/PvZ-IPAOMTK.COM.ipa"
+    },
+    {
+      "name": "Minecraft IPA",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/minecraft.jpg",
+      "developerName": "Minecraft",
+      "category": "games",
+      "downloadURL": "https://file.ipaomtk.com/Minecraft/Minecraft-v1.21.131-IPAOMTK.COM.ipa"
+    },
     {
     "name": "Snapchat Mod",
     "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/snapchat-1.png",
@@ -296,6 +317,21 @@
     "developerName": "GBA",
     "category": "emulator",
     "downloadURL": "https://file.ipaomtk.com/ipa/GBA4iOS.ipa"
-  }
+  },
+    {
+    "name": "Free Fire Mod",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Free-Fire-logo.webp",
+    "developerName": "Garena",
+    "category": "games",
+    "downloadURL": "https://file.ipaomtk.com/Free%20Fire/Free-Fire-ASTA-IPAOMTK.COM.ipa"
+  },
+    {
+    "name": "Grand Theft Auto San Andreas",
+    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Grand-Theft-Auto-San-Andreas-gta-ipa.jpg",
+    "developerName": "Rockstar",
+    "category": "games",
+    "downloadURL": "https://file.ipaomtk.com/ipa/GTA-San-Andreas-ipaomtk.com.ipa"
+  },
+    
   ]
 }
