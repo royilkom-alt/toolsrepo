@@ -178,6 +178,13 @@
     "category": "games",
     "downloadURL": "https://file.ipaomtk.com/ipa/last-day-on-earth-hack.ipa"
   },
+    {
+    "name": "Netflix Premium",
+    "iconURL": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png",
+    "developerName": "Netflix Inc",
+    "category": "tweak",
+    "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-3.0.ipa"
+  },
   {
     "name": "CarX Street",
     "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/CarX-Street.png",
